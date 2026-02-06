@@ -1,0 +1,1502 @@
+{
+  "onboarding": {
+    "welcome": {
+      "en": "Welcome to WAZA WEALTH — your goal-driven investment companion.",
+      "sw": "Karibu WAZA WEALTH — rafiki wako wa uwekezaji unaolenga malengo."
+    },
+    "language_toggle": {
+      "en": "Select your preferred language",
+      "sw": "Chagua lugha unayopendelea"
+    },
+    "continue": {
+      "en": "Continue",
+      "sw": "Endelea"
+    },
+    "skip": {
+      "en": "Skip",
+      "sw": "Ruka"
+    },
+    "goal_selection": {
+      "title": {
+        "en": "What are your financial goals?",
+        "sw": "Malengo yako ya kifedha ni yapi?"
+      },
+      "subtitle": {
+        "en": "Choose up to 3 goals that matter most to you",
+        "sw": "Chagua hadi malengo 3 yanayokuhusisha zaidi"
+      },
+      "everyday_growth": {
+        "en": "Everyday Growth — invest for your daily future",
+        "sw": "Ukuaji wa Kila Siku — wekeza kwa ajili ya kesho yako ya kila siku"
+      },
+      "retirement_vault": {
+        "en": "Retirement Vault — secure your long-term future",
+        "sw": "Hazina ya Kustaafu — hakikisha maisha yako ya muda mrefu"
+      },
+      "emergency_fund": {
+        "en": "Emergency Fund — savings for unexpected events",
+        "sw": "Mfuko wa Dharura — akiba kwa matukio yasiyotarajiwa"
+      },
+      "family_legacy": {
+        "en": "Family & Legacy — build wealth for your loved ones",
+        "sw": "Familia & Urithi — jenga mali kwa wapendwa wako"
+      },
+      "goals_savings": {
+        "en": "Goals & Savings — save for specific dreams",
+        "sw": "Malengo & Akiba — okoa kwa ndoto maalum"
+      }
+    },
+    "behavioral_questions": {
+      "risk_tolerance": {
+        "en": "How comfortable are you with investment risks?",
+        "sw": "Unajisikiaje kuhusu hatari za uwekezaji?"
+      },
+      "low_risk": {
+        "en": "Low — I prefer steady, predictable growth",
+        "sw": "Chini — Napendelea ukuaji thabiti, unaotabirika"
+      },
+      "moderate_risk": {
+        "en": "Moderate — I can handle some ups and downs",
+        "sw": "Wastani — Ninaweza kushughulikia mabadiliko machache"
+      },
+      "high_risk": {
+        "en": "High — I'm comfortable with significant volatility",
+        "sw": "Juu — Ninajisikia vizuri na mabadiliko makubwa"
+      },
+      "investment_experience": {
+        "en": "What is your investing experience?",
+        "sw": "Uwezo wako wa uwekezaji ni upi?"
+      },
+      "beginner": {
+        "en": "Beginner — this is my first time",
+        "sw": "Mwanzo — hii ni mara yangu ya kwanza"
+      },
+      "intermediate": {
+        "en": "Intermediate — I've invested before",
+        "sw": "Wastani — Nimewahi kuwekeza hapo awali"
+      },
+      "advanced": {
+        "en": "Advanced — I'm an experienced investor",
+        "sw": "Juu — Mimi ni mwekezaji mwenye uzoefu"
+      }
+    },
+    "trust_signals": {
+      "title": {
+        "en": "Your money is safe with us",
+        "sw": "Fedha zako ni salama nasi"
+      },
+      "regulated": {
+        "en": "Regulated by CMSA (Tanzania)",
+        "sw": "Inasimamiwa na CMSA (Tanzania)"
+      },
+      "encrypted": {
+        "en": "Bank-level encryption",
+        "sw": "Usimbuaji wa kiwango cha benki"
+      },
+      "insured": {
+        "en": "Deposit insurance up to TZS 5M",
+        "sw": "Bima ya amana hadi TZS 5M"
+      }
+    },
+    "complete": {
+      "en": "You're all set!",
+      "sw": "Umekamilika!"
+    }
+  },
+
+  "dashboard": {
+    "total_wealth": {
+      "en": "Total Wealth",
+      "sw": "Jumla ya Mali"
+    },
+    "available_balance": {
+      "en": "Available Balance",
+      "sw": "Salio Linalopatikana"
+    },
+    "today_insight": {
+      "en": "Today's Insight",
+      "sw": "Ufafanuzi wa Leo"
+    },
+    "goal_progress": {
+      "en": "Goal Progress",
+      "sw": "Maendeleo ya Lengo"
+    },
+    "quick_actions": {
+      "en": "Quick Actions",
+      "sw": "Vitendo vya Haraka"
+    },
+    "add_funds": {
+      "en": "Add Funds",
+      "sw": "Ongeza Fedha"
+    },
+    "withdraw": {
+      "en": "Withdraw",
+      "sw": "Toa"
+    },
+    "discover": {
+      "en": "Discover",
+      "sw": "Gundua"
+    },
+    "portfolio": {
+      "en": "Portfolio",
+      "sw": "Mkoba"
+    },
+    "empty_state": {
+      "title": {
+        "en": "Start Your Wealth Journey",
+        "sw": "Anza Safari yako ya Utajiri"
+      },
+      "description": {
+        "en": "You haven't added any investments yet. Start exploring!",
+        "sw": "Bado hujaongeza uwekezaji wowote. Anza kuchunguza!"
+      },
+      "cta": {
+        "en": "Explore Stocks",
+        "sw": "Chunguza Hisa"
+      }
+    },
+    "daily_coach": {
+      "dismiss": {
+        "en": "Dismiss",
+        "sw": "Ondoa"
+      },
+      "learn_more": {
+        "en": "Learn More",
+        "sw": "Jifunze Zaidi"
+      }
+    }
+  },
+
+  "portfolio": {
+    "portfolio_value": {
+      "en": "Portfolio Value",
+      "sw": "Thamani ya Portfolio"
+    },
+    "total_gain": {
+      "en": "Total Gain",
+      "sw": "Faida Jumla"
+    },
+    "total_return": {
+      "en": "Total Return",
+      "sw": "Jumla ya Faida"
+    },
+    "region_label": {
+      "en": "Region",
+      "sw": "Eneo"
+    },
+    "exchange_badge": {
+      "en": "Exchange",
+      "sw": "Soko la Hisa"
+    },
+    "group_by_country": {
+      "en": "Group by Country",
+      "sw": "Panga kwa Nchi"
+    },
+    "group_by_sector": {
+      "en": "Group by Sector",
+      "sw": "Panga kwa Sekta"
+    },
+    "holdings": {
+      "en": "Holdings",
+      "sw": "Vipande"
+    },
+    "shares": {
+      "en": "shares",
+      "sw": "hisa"
+    },
+    "avg_cost": {
+      "en": "Avg. Cost",
+      "sw": "Bei ya Wastani"
+    },
+    "current_price": {
+      "en": "Current Price",
+      "sw": "Bei ya Sasa"
+    },
+    "gain": {
+      "en": "Gain",
+      "sw": "Faida"
+    },
+    "loss": {
+      "en": "Loss",
+      "sw": "Hasara"
+    },
+    "dividend_yield": {
+      "en": "Dividend Yield",
+      "sw": "Mapato ya Gawio"
+    },
+    "no_holdings": {
+      "en": "You have no holdings yet. Explore stocks to start building your portfolio.",
+      "sw": "Bado huna hisa. Chunguza hisa kuanza kujenga portfolio yako."
+    },
+    "ai_summary_card": {
+      "on_track": {
+        "en": "Your portfolio is aligned with your goals.",
+        "sw": "Portfolio yako inalingana na malengo yako."
+      },
+      "diversified": {
+        "en": "Well diversified across regions",
+        "sw": "Imetawanyika vizuri kwa mikoa"
+      },
+      "needs_diversity": {
+        "en": "Consider adding more regional diversity",
+        "sw": "Fikiria kuongeza utofauti wa kimkoa"
+      }
+    },
+    "error_fetch": {
+      "en": "Unable to load portfolio data. Please try again.",
+      "sw": "Haiwezi kupakia data za portfolio. Tafadhali jaribu tena."
+    }
+  },
+
+  "market_discovery": {
+    "title": {
+      "en": "Discover",
+      "sw": "Gundua"
+    },
+    "search_placeholder": {
+      "en": "Search stocks across DSE, NSE, USE, RSE...",
+      "sw": "Tafuta hisa katika DSE, NSE, USE, RSE..."
+    },
+    "filter_label": {
+      "en": "Filters",
+      "sw": "Chuja"
+    },
+    "all_stocks": {
+      "en": "All Stocks",
+      "sw": "Hisa Zote"
+    },
+    "for_your_goals": {
+      "en": "For Your Goals",
+      "sw": "Kwa Malengo Yako"
+    },
+    "top_movers": {
+      "en": "Top Movers",
+      "sw": "Zinazoongoza"
+    },
+    "markets": {
+      "en": "Markets",
+      "sw": "Masoko"
+    },
+    "sectors": {
+      "en": "Sectors",
+      "sw": "Sekta"
+    },
+    "all": {
+      "en": "All",
+      "sw": "Zote"
+    },
+    "apply_filters": {
+      "en": "Apply Filters",
+      "sw": "Tekeleza Vichujio"
+    },
+    "clear_filters": {
+      "en": "Clear All",
+      "sw": "Futa Zote"
+    },
+    "countries": {
+      "tanzania": {
+        "en": "Tanzania",
+        "sw": "Tanzania"
+      },
+      "kenya": {
+        "en": "Kenya",
+        "sw": "Kenya"
+      },
+      "uganda": {
+        "en": "Uganda",
+        "sw": "Uganda"
+      },
+      "rwanda": {
+        "en": "Rwanda",
+        "sw": "Rwanda"
+      }
+    },
+    "sectors_list": {
+      "financials": {
+        "en": "Financials",
+        "sw": "Fedha"
+      },
+      "telecommunications": {
+        "en": "Telecommunications",
+        "sw": "Mawasiliano"
+      },
+      "consumer_goods": {
+        "en": "Consumer Goods",
+        "sw": "Bidhaa za Matumizi"
+      },
+      "manufacturing": {
+        "en": "Manufacturing",
+        "sw": "Utengenezaji"
+      },
+      "energy": {
+        "en": "Energy",
+        "sw": "Nishati"
+      },
+      "real_estate": {
+        "en": "Real Estate",
+        "sw": "Mali Isiyohamishika"
+      }
+    },
+    "stock_card": {
+      "price_label": {
+        "en": "Price",
+        "sw": "Bei"
+      },
+      "change_label": {
+        "en": "Change",
+        "sw": "Mabadiliko"
+      },
+      "dividend_label": {
+        "en": "Dividend",
+        "sw": "Gawio"
+      },
+      "volume_label": {
+        "en": "Volume",
+        "sw": "Kiasi"
+      },
+      "market_cap": {
+        "en": "Market Cap",
+        "sw": "Thamani ya Soko"
+      },
+      "ai_insight": {
+        "en": "This stock aligns with your growth goal.",
+        "sw": "Hisa hii inalingana na lengo lako la ukuaji."
+      },
+      "matches_goal": {
+        "en": "Matches your",
+        "sw": "Inafaa"
+      },
+      "add_to_watchlist": {
+        "en": "Add to Watchlist",
+        "sw": "Ongeza kwenye Orodha"
+      },
+      "view_details": {
+        "en": "View Details",
+        "sw": "Angalia Maelezo"
+      }
+    },
+    "no_results": {
+      "en": "No stocks found. Try adjusting your filters.",
+      "sw": "Hakuna hisa zilizopatikana. Jaribu kurekebisha chujio."
+    }
+  },
+
+  "market_overview": {
+    "title": {
+      "en": "Markets",
+      "sw": "Masoko"
+    },
+    "regional_snapshot": {
+      "en": "Regional Snapshot",
+      "sw": "Muhtasari wa Mkoa"
+    },
+    "indices": {
+      "en": "Indices",
+      "sw": "Viashiria"
+    },
+    "sector_performance": {
+      "en": "Sector Performance",
+      "sw": "Utendaji wa Sekta"
+    },
+    "market_status": {
+      "open": {
+        "en": "Markets are open",
+        "sw": "Masoko yamefunguka"
+      },
+      "closed": {
+        "en": "Markets are closed",
+        "sw": "Masoko yamefungwa"
+      },
+      "next_open": {
+        "en": "Next open",
+        "sw": "Kufungua kufuatayo"
+      }
+    },
+    "ai_insight": {
+      "title": {
+        "en": "AI Insight",
+        "sw": "Uchambuzi wa AI"
+      },
+      "todays_summary": {
+        "en": "Today's Summary",
+        "sw": "Muhtasari wa Leo"
+      },
+      "regional_summary": {
+        "en": "East African markets showed mixed performance today. Banking sector leads gains.",
+        "sw": "Masoko ya Afrika Mashariki yameonyesha utendaji mchanganyiko leo. Sekta ya benki inaongoza faida."
+      },
+      "investor_tip": {
+        "en": "Good time to review your diversification across the region",
+        "sw": "Wakati mzuri wa kukagua utawanyiko wako kote mkoa"
+      }
+    },
+    "view_all": {
+      "en": "View All",
+      "sw": "Angalia Zote"
+    }
+  },
+
+  "stock_detail": {
+    "buy": {
+      "en": "Buy",
+      "sw": "Nunua"
+    },
+    "sell": {
+      "en": "Sell",
+      "sw": "Uza"
+    },
+    "watch": {
+      "en": "Watch",
+      "sw": "Fuatilia"
+    },
+    "price": {
+      "en": "Price",
+      "sw": "Bei"
+    },
+    "change": {
+      "en": "Change",
+      "sw": "Mabadiliko"
+    },
+    "open": {
+      "en": "Open",
+      "sw": "Fungua"
+    },
+    "high": {
+      "en": "High",
+      "sw": "Juu"
+    },
+    "low": {
+      "en": "Low",
+      "sw": "Chini"
+    },
+    "volume": {
+      "en": "Volume",
+      "sw": "Kiasi"
+    },
+    "tabs": {
+      "overview": {
+        "en": "Overview",
+        "sw": "Muhtasari"
+      },
+      "dividends": {
+        "en": "Dividends",
+        "sw": "Magawio"
+      },
+      "company_info": {
+        "en": "Company Info",
+        "sw": "Taarifa za Kampuni"
+      }
+    },
+    "ai_insight": {
+      "why_matters": {
+        "en": "Why this stock matters",
+        "sw": "Kwa nini hisa hii ni muhimu"
+      },
+      "stable_growth": {
+        "en": "Stable long-term performer with consistent dividend history. Good fit for retirement and income goals.",
+        "sw": "Mtendaji thabiti wa muda mrefu na historia ya gawio thabiti. Inafaa kwa malengo ya ustaafu na mapato."
+      },
+      "risk_level": {
+        "en": "Risk Level",
+        "sw": "Kiwango cha Hatari"
+      },
+      "moderate": {
+        "en": "Moderate",
+        "sw": "Wastani"
+      }
+    },
+    "key_metrics": {
+      "en": "Key Metrics",
+      "sw": "Vipimo Muhimu"
+    },
+    "pe_ratio": {
+      "en": "P/E Ratio",
+      "sw": "Uwiano wa P/E"
+    },
+    "regulatory": {
+      "title": {
+        "en": "Regulatory Information",
+        "sw": "Taarifa za Udhibiti"
+      },
+      "regulated_by": {
+        "en": "Regulated by",
+        "sw": "Inadhibitiwa na"
+      },
+      "cmsa": {
+        "en": "Capital Markets and Securities Authority (CMSA)",
+        "sw": "Mamlaka ya Masoko ya Mtaji na Usalama (CMSA)"
+      },
+      "cma": {
+        "en": "Capital Markets Authority (CMA)",
+        "sw": "Mamlaka ya Masoko ya Mtaji (CMA)"
+      },
+      "risk_warning": {
+        "en": "Investment involves risk. Past performance does not guarantee future results.",
+        "sw": "Uwekezaji una hatari. Utendaji wa awali hauhakikishi matokeo ya siku zijazo."
+      },
+      "settlement_note": {
+        "en": "Settlement: T+3 (3 business days)",
+        "sw": "Malipo: T+3 (siku 3 za biashara)"
+      }
+    },
+    "dividends_tab": {
+      "dividend_history": {
+        "en": "Dividend History",
+        "sw": "Historia ya Magawio"
+      },
+      "next_dividend": {
+        "en": "Next Expected Dividend",
+        "sw": "Gawio Linalotarajiwa"
+      },
+      "payment_date": {
+        "en": "Payment Date",
+        "sw": "Tarehe ya Malipo"
+      },
+      "ex_date": {
+        "en": "Ex-Dividend Date",
+        "sw": "Tarehe ya Mwisho"
+      },
+      "amount": {
+        "en": "Amount",
+        "sw": "Kiasi"
+      },
+      "estimated": {
+        "en": "Estimated",
+        "sw": "Makadirio"
+      }
+    },
+    "company_tab": {
+      "about": {
+        "en": "About",
+        "sw": "Kuhusu"
+      },
+      "sector": {
+        "en": "Sector",
+        "sw": "Sekta"
+      },
+      "founded": {
+        "en": "Founded",
+        "sw": "Ilianzishwa"
+      },
+      "employees": {
+        "en": "Employees",
+        "sw": "Wafanyakazi"
+      },
+      "headquarters": {
+        "en": "Headquarters",
+        "sw": "Makao Makuu"
+      }
+    }
+  },
+
+  "order_execution": {
+    "buy_title": {
+      "en": "Buy",
+      "sw": "Nunua"
+    },
+    "sell_title": {
+      "en": "Sell",
+      "sw": "Uza"
+    },
+    "step": {
+      "en": "Step",
+      "sw": "Hatua"
+    },
+    "of": {
+      "en": "of",
+      "sw": "ya"
+    },
+    "step_1": {
+      "title": {
+        "en": "Choose order type",
+        "sw": "Chagua aina ya agizo"
+      },
+      "market_order": {
+        "en": "Market Order",
+        "sw": "Agizo la Soko"
+      },
+      "market_desc": {
+        "en": "Execute immediately at current price",
+        "sw": "Tekeleza mara moja kwa bei ya sasa"
+      },
+      "limit_order": {
+        "en": "Limit Order",
+        "sw": "Agizo la Kikomo"
+      },
+      "limit_desc": {
+        "en": "Execute only at your specified price or better",
+        "sw": "Tekeleza tu kwa bei uliyoweka au bora zaidi"
+      },
+      "recommended": {
+        "en": "Recommended",
+        "sw": "Inapendekezwa"
+      }
+    },
+    "step_2": {
+      "title": {
+        "en": "How many shares?",
+        "sw": "Hisa ngapi?"
+      },
+      "shares": {
+        "en": "shares",
+        "sw": "hisa"
+      },
+      "available": {
+        "en": "Available",
+        "sw": "Zinazopatikana"
+      },
+      "limit_price_label": {
+        "en": "Limit price per share",
+        "sw": "Bei ya kikomo kwa hisa"
+      },
+      "current_price": {
+        "en": "Current price",
+        "sw": "Bei ya sasa"
+      },
+      "estimated_cost": {
+        "en": "Estimated cost",
+        "sw": "Gharama inayokadiria"
+      },
+      "estimated_proceeds": {
+        "en": "Estimated proceeds",
+        "sw": "Mapato yanayokadiria"
+      },
+      "fees": {
+        "en": "Fees",
+        "sw": "Ada"
+      },
+      "total": {
+        "en": "Total",
+        "sw": "Jumla"
+      }
+    },
+    "step_3": {
+      "title": {
+        "en": "Review your order",
+        "sw": "Kagua agizo lako"
+      },
+      "select_account": {
+        "en": "Select account",
+        "sw": "Chagua akaunti"
+      },
+      "order_type": {
+        "en": "Order Type",
+        "sw": "Aina ya Agizo"
+      },
+      "quantity": {
+        "en": "Quantity",
+        "sw": "Kiasi"
+      },
+      "price_label": {
+        "en": "Price",
+        "sw": "Bei"
+      },
+      "account": {
+        "en": "Account",
+        "sw": "Akaunti"
+      },
+      "ai_guidance": {
+        "en": "AI Guidance",
+        "sw": "Mwongozo wa AI"
+      },
+      "ai_message_buy": {
+        "en": "This purchase aligns with your growth goal. Consider dollar-cost averaging for better results.",
+        "sw": "Ununuzi huu unafaa na lengo lako la ukuaji. Fikiria wastani wa bei kwa matokeo bora."
+      },
+      "ai_message_sell": {
+        "en": "Consider tax implications before selling. Hold time affects capital gains.",
+        "sw": "Fikiria athari za kodi kabla ya kuuza. Muda wa kushikilia unaathiri faida za mtaji."
+      },
+      "disclaimer": {
+        "en": "Settlement in 3 business days (T+3). Orders may not execute if limit price not met.",
+        "sw": "Malipo katika siku 3 za biashara (T+3). Maagizo yanaweza kutotekelezwa kama bei ya kikomo haikutana."
+      },
+      "confirm_order": {
+        "en": "Confirm Order",
+        "sw": "Thibitisha Agizo"
+      }
+    },
+    "success": {
+      "order_placed": {
+        "en": "Order Placed",
+        "sw": "Agizo Limewekwa"
+      },
+      "buy_success": {
+        "en": "Your buy order has been submitted",
+        "sw": "Agizo lako la ununuzi limewasilishwa"
+      },
+      "sell_success": {
+        "en": "Your sell order has been submitted",
+        "sw": "Agizo lako la mauzo limewasilishwa"
+      },
+      "order_number": {
+        "en": "Order",
+        "sw": "Agizo"
+      },
+      "pending": {
+        "en": "Pending execution",
+        "sw": "Inasubiri utekelezaji"
+      },
+      "view_orders": {
+        "en": "View Orders",
+        "sw": "Angalia Maagizo"
+      },
+      "done": {
+        "en": "Done",
+        "sw": "Imekamilika"
+      }
+    },
+    "errors": {
+      "insufficient_funds": {
+        "en": "Insufficient funds",
+        "sw": "Fedha hazitoshi"
+      },
+      "insufficient_shares": {
+        "en": "You only have",
+        "sw": "Una"
+      },
+      "shares_available": {
+        "en": "shares available",
+        "sw": "hisa zinazopatikana tu"
+      },
+      "min_quantity": {
+        "en": "Minimum 1 share required",
+        "sw": "Hisa 1 kwa chini inahitajika"
+      }
+    },
+    "common": {
+      "continue": {
+        "en": "Continue",
+        "sw": "Endelea"
+      },
+      "back": {
+        "en": "Back",
+        "sw": "Rudi"
+      },
+      "cancel": {
+        "en": "Cancel",
+        "sw": "Ghairi"
+      }
+    }
+  },
+
+  "scheduled_trades": {
+    "title": {
+      "en": "Schedule Trade",
+      "sw": "Panga Biashara"
+    },
+    "select_asset": {
+      "title": {
+        "en": "What do you want to invest in?",
+        "sw": "Unataka kuwekeza nini?"
+      },
+      "search_placeholder": {
+        "en": "Search stocks...",
+        "sw": "Tafuta hisa..."
+      },
+      "popular_choices": {
+        "en": "Popular Choices",
+        "sw": "Chaguo Maarufu"
+      }
+    },
+    "amount": {
+      "title": {
+        "en": "How much?",
+        "sw": "Kiasi gani?"
+      },
+      "quick_amounts": {
+        "en": "Quick amounts",
+        "sw": "Kiasi cha haraka"
+      },
+      "will_buy": {
+        "en": "This will buy approximately",
+        "sw": "Hii itanunua takriban"
+      },
+      "shares": {
+        "en": "shares",
+        "sw": "hisa"
+      },
+      "funding_from": {
+        "en": "Funding from",
+        "sw": "Fedha kutoka"
+      },
+      "change_funding": {
+        "en": "Change",
+        "sw": "Badilisha"
+      }
+    },
+    "schedule": {
+      "title": {
+        "en": "When should this happen?",
+        "sw": "Hii inatokea lini?"
+      },
+      "once": {
+        "en": "Once (specific date)",
+        "sw": "Mara moja (tarehe maalum)"
+      },
+      "daily": {
+        "en": "Daily",
+        "sw": "Kila siku"
+      },
+      "weekly": {
+        "en": "Weekly",
+        "sw": "Kila wiki"
+      },
+      "monthly": {
+        "en": "Monthly",
+        "sw": "Kila mwezi"
+      },
+      "on": {
+        "en": "On",
+        "sw": "Siku ya"
+      },
+      "select_date": {
+        "en": "Select date",
+        "sw": "Chagua tarehe"
+      },
+      "every_month": {
+        "en": "Every month on the",
+        "sw": "Kila mwezi tarehe"
+      },
+      "weekdays": {
+        "monday": {
+          "en": "Monday",
+          "sw": "Jumatatu"
+        },
+        "tuesday": {
+          "en": "Tuesday",
+          "sw": "Jumanne"
+        },
+        "wednesday": {
+          "en": "Wednesday",
+          "sw": "Jumatano"
+        },
+        "thursday": {
+          "en": "Thursday",
+          "sw": "Alhamisi"
+        },
+        "friday": {
+          "en": "Friday",
+          "sw": "Ijumaa"
+        }
+      }
+    },
+    "condition": {
+      "title": {
+        "en": "Add a condition?",
+        "sw": "Ongeza hali?"
+      },
+      "no_condition": {
+        "en": "No condition",
+        "sw": "Hakuna hali"
+      },
+      "price_below": {
+        "en": "Only if price drops to",
+        "sw": "Tu kama bei inashuka hadi"
+      },
+      "price_above": {
+        "en": "Only if price rises to",
+        "sw": "Tu kama bei inapanda hadi"
+      },
+      "current_price": {
+        "en": "Current price",
+        "sw": "Bei ya sasa"
+      }
+    },
+    "review": {
+      "title": {
+        "en": "Review your scheduled trade",
+        "sw": "Kagua biashara yako iliyopangwa"
+      },
+      "stock": {
+        "en": "Stock",
+        "sw": "Hisa"
+      },
+      "investment": {
+        "en": "Investment",
+        "sw": "Uwekezaji"
+      },
+      "schedule_label": {
+        "en": "Schedule",
+        "sw": "Mpangilio"
+      },
+      "condition": {
+        "en": "Condition",
+        "sw": "Hali"
+      },
+      "only_if": {
+        "en": "Only if",
+        "sw": "Tu kama"
+      },
+      "ai_insight": {
+        "en": "AI Insight",
+        "sw": "Uchambuzi wa AI"
+      },
+      "ai_message": {
+        "en": "Scheduling this trade helps you maintain your investment plan consistently",
+        "sw": "Kupanga biashara hii kunakusaidia kuendelea na mpango wako wa uwekezaji"
+      },
+      "disclaimer": {
+        "en": "Funds will be deducted when the trade executes. You can cancel anytime.",
+        "sw": "Fedha zitachukuliwa biashara inapotekelezwa. Unaweza kughairi wakati wowote."
+      },
+      "confirm_trade": {
+        "en": "Confirm Trade",
+        "sw": "Thibitisha Biashara"
+      }
+    },
+    "success": {
+      "title": {
+        "en": "Trade Scheduled",
+        "sw": "Biashara Imepangwa"
+      },
+      "message": {
+        "en": "Your recurring investment starts on",
+        "sw": "Uwekezaji wako wa mara kwa mara unaanza"
+      },
+      "view_schedule": {
+        "en": "View Schedule",
+        "sw": "Angalia Mpangilio"
+      },
+      "done": {
+        "en": "Done",
+        "sw": "Imekamilika"
+      }
+    },
+    "empty_state": {
+      "en": "No scheduled trades yet. Start adding to automate your investing.",
+      "sw": "Bado hakuna biashara zilizopangwa. Anza kuongeza ili kuendesha uwekezaji wako kwa urahisi."
+    },
+    "error_invalid": {
+      "en": "Invalid schedule or condition. Please adjust.",
+      "sw": "Ratiba au hali si sahihi. Tafadhali rekebisha."
+    }
+  },
+
+  "dividend_calendar": {
+    "title": {
+      "en": "Dividend Calendar",
+      "sw": "Kalenda ya Magawio"
+    },
+    "tabs": {
+      "calendar": {
+        "en": "Calendar",
+        "sw": "Kalenda"
+      },
+      "forecast": {
+        "en": "Income Forecast",
+        "sw": "Makadirio ya Mapato"
+      }
+    },
+    "upcoming_dividends": {
+      "en": "Upcoming Payments",
+      "sw": "Malipo Yanayokuja"
+    },
+    "total_expected": {
+      "en": "Total Expected",
+      "sw": "Jumla Inayotarajiwa"
+    },
+    "add_reminder": {
+      "en": "Set Reminder",
+      "sw": "Weka Kikumbusho"
+    },
+    "ex_date": {
+      "en": "Ex-Date",
+      "sw": "Tarehe ya Mwisho"
+    },
+    "payment_date": {
+      "en": "Payment",
+      "sw": "Malipo"
+    },
+    "amount": {
+      "en": "Amount",
+      "sw": "Kiasi"
+    },
+    "shares": {
+      "en": "Shares",
+      "sw": "Hisa"
+    },
+    "total": {
+      "en": "Total",
+      "sw": "Jumla"
+    },
+    "forecast": {
+      "ai_message": {
+        "en": "Based on your current holdings, you can expect approximately TZS 85,000 in dividend income over the next 12 months",
+        "sw": "Kulingana na vipande vyako vya sasa, unaweza kutarajia takriban TZS 85,000 kwa mapato ya gawio katika miezi 12 ijayo"
+      },
+      "monthly_average": {
+        "en": "Monthly Average",
+        "sw": "Wastani wa Mwezi"
+      },
+      "annual_projection": {
+        "en": "Annual Projection",
+        "sw": "Makadirio ya Mwaka"
+      },
+      "quarterly_breakdown": {
+        "en": "Quarterly Breakdown",
+        "sw": "Mgawanyiko wa Robo"
+      },
+      "q1": {
+        "en": "Q1",
+        "sw": "Robo 1"
+      },
+      "q2": {
+        "en": "Q2",
+        "sw": "Robo 2"
+      },
+      "q3": {
+        "en": "Q3",
+        "sw": "Robo 3"
+      },
+      "q4": {
+        "en": "Q4",
+        "sw": "Robo 4"
+      }
+    },
+    "income_summary": {
+      "en": "Expected Dividend Income",
+      "sw": "Mapato Yanayotarajiwa ya Gawio"
+    },
+    "empty_state": {
+      "en": "No upcoming dividends found.",
+      "sw": "Hakuna magawio yanayokuja yalilopatikana."
+    },
+    "no_payments": {
+      "en": "No dividend payments",
+      "sw": "Hakuna malipo ya gawio"
+    },
+    "this_period": {
+      "en": "this period",
+      "sw": "kipindi hiki"
+    }
+  },
+
+  "banking": {
+    "title": {
+      "en": "Banking",
+      "sw": "Benki"
+    },
+    "tabs": {
+      "overview": {
+        "en": "Overview",
+        "sw": "Muhtasari"
+      },
+      "cards": {
+        "en": "Cards",
+        "sw": "Kadi"
+      },
+      "funding": {
+        "en": "Funding",
+        "sw": "Fedha"
+      }
+    },
+    "available_balance": {
+      "en": "Available Balance",
+      "sw": "Salio Linalopatikana"
+    },
+    "total_invested": {
+      "en": "Total Invested",
+      "sw": "Jumla Iliyowekeza"
+    },
+    "total_return": {
+      "en": "Total Return",
+      "sw": "Jumla ya Faida"
+    },
+    "add_funds": {
+      "en": "Add Funds",
+      "sw": "Ongeza Fedha"
+    },
+    "withdraw": {
+      "en": "Withdraw",
+      "sw": "Toa Fedha"
+    },
+    "account_tier": {
+      "en": "Account Tier",
+      "sw": "Kiwango cha Akaunti"
+    },
+    "tiers": {
+      "starter": {
+        "en": "Starter",
+        "sw": "Anza"
+      },
+      "growth": {
+        "en": "Growth",
+        "sw": "Ukuaji"
+      },
+      "wealth": {
+        "en": "Wealth",
+        "sw": "Utajiri"
+      }
+    },
+    "upgrade": {
+      "en": "Upgrade",
+      "sw": "Boresha"
+    },
+    "tier_benefits": {
+      "en": "Benefits",
+      "sw": "Faida"
+    },
+    "daily_limit": {
+      "en": "Daily Limit",
+      "sw": "Kikomo cha Siku"
+    },
+    "monthly_limit": {
+      "en": "Monthly Limit",
+      "sw": "Kikomo cha Mwezi"
+    },
+    "remaining": {
+      "en": "remaining",
+      "sw": "zimebaki"
+    },
+    "cards": {
+      "virtual_card": {
+        "en": "Virtual Card",
+        "sw": "Kadi ya Mtandao"
+      },
+      "physical_card": {
+        "en": "Physical Card",
+        "sw": "Kadi ya Kimwili"
+      },
+      "order_card": {
+        "en": "Order Physical Card",
+        "sw": "Agiza Kadi ya Kimwili"
+      },
+      "card_number": {
+        "en": "Card Number",
+        "sw": "Nambari ya Kadi"
+      },
+      "expires": {
+        "en": "Expires",
+        "sw": "Inaisha"
+      },
+      "cvv": {
+        "en": "CVV",
+        "sw": "CVV"
+      },
+      "show_details": {
+        "en": "Show Details",
+        "sw": "Onyesha Maelezo"
+      },
+      "hide_details": {
+        "en": "Hide Details",
+        "sw": "Ficha Maelezo"
+      },
+      "copy_number": {
+        "en": "Copy Number",
+        "sw": "Nakili Nambari"
+      },
+      "freeze": {
+        "en": "Freeze Card",
+        "sw": "Simamisha Kadi"
+      },
+      "unfreeze": {
+        "en": "Unfreeze Card",
+        "sw": "Washa Kadi"
+      }
+    },
+    "funding": {
+      "funding_methods": {
+        "en": "Funding Methods",
+        "sw": "Njia za Kuongeza Fedha"
+      },
+      "mpesa": {
+        "title": {
+          "en": "M-Pesa",
+          "sw": "M-Pesa"
+        },
+        "description": {
+          "en": "Instant transfer via M-Pesa",
+          "sw": "Uhamisho wa haraka kupitia M-Pesa"
+        },
+        "paybill_number": {
+          "en": "Paybill Number",
+          "sw": "Nambari ya Paybill"
+        },
+        "account_number": {
+          "en": "Account Number",
+          "sw": "Nambari ya Akaunti"
+        },
+        "instructions": {
+          "en": "Send money to this Lipa Na M-Pesa number",
+          "sw": "Tuma pesa kwa nambari hii ya Lipa Na M-Pesa"
+        },
+        "copy_paybill": {
+          "en": "Copy Paybill",
+          "sw": "Nakili Paybill"
+        },
+        "copy_account": {
+          "en": "Copy Account",
+          "sw": "Nakili Akaunti"
+        },
+        "waiting_confirmation": {
+          "en": "Waiting for payment confirmation...",
+          "sw": "Inasubiri uthibitisho wa malipo..."
+        }
+      },
+      "bank": {
+        "title": {
+          "en": "Bank Transfer",
+          "sw": "Uhamisho wa Benki"
+        },
+        "description": {
+          "en": "From your linked bank account",
+          "sw": "Kutoka akaunti yako ya benki"
+        }
+      },
+      "linked_accounts": {
+        "en": "Linked Accounts",
+        "sw": "Akaunti Zilizounganishwa"
+      },
+      "link_new": {
+        "en": "Link New Account",
+        "sw": "Unganisha Akaunti Mpya"
+      }
+    },
+    "security": {
+      "title": {
+        "en": "Security Features",
+        "sw": "Vipengele vya Usalama"
+      },
+      "two_factor": {
+        "en": "Two-factor authentication",
+        "sw": "Uthibitishaji wa hatua mbili"
+      },
+      "biometric": {
+        "en": "Biometric login",
+        "sw": "Kuingia kwa biological"
+      },
+      "encryption": {
+        "en": "Bank-level encryption",
+        "sw": "Usimbuaji wa kiwango cha benki"
+      }
+    }
+  },
+
+  "scenario_builder": {
+    "title": {
+      "en": "Scenario Builder",
+      "sw": "Mjenzi wa Hali"
+    },
+    "current_plan": {
+      "en": "Current Plan",
+      "sw": "Mpango wa Sasa"
+    },
+    "new_scenario": {
+      "en": "New Scenario",
+      "sw": "Hali Mpya"
+    },
+    "monthly_contribution": {
+      "en": "Monthly Contribution",
+      "sw": "Michango ya Kila Mwezi"
+    },
+    "time_horizon": {
+      "en": "Time Horizon",
+      "sw": "Muda wa Lengo"
+    },
+    "years": {
+      "en": "years",
+      "sw": "miaka"
+    },
+    "expected_return": {
+      "en": "Expected Return",
+      "sw": "Faida Inayotarajiwa"
+    },
+    "final_amount": {
+      "en": "Final Amount",
+      "sw": "Kiasi cha Mwisho"
+    },
+    "ai_feedback": {
+      "high_confidence": {
+        "en": "This scenario has a high probability of success",
+        "sw": "Hali hii ina uwezekano mkubwa wa mafanikio"
+      },
+      "medium_confidence": {
+        "en": "This is an ambitious but achievable target",
+        "sw": "Hii ni lengo la ushupavu lakini linaweza kufikika"
+      },
+      "low_confidence": {
+        "en": "Let's adjust the inputs to make this more realistic",
+        "sw": "Hebu turekebishe viingizio ili kufanya hii iwe ya kweli zaidi"
+      }
+    },
+    "apply_scenario": {
+      "en": "Apply Scenario",
+      "sw": "Tekeleza Hali"
+    },
+    "reset": {
+      "en": "Reset",
+      "sw": "Weka Upya"
+    }
+  },
+
+  "market_summary_tax": {
+    "regional_index": {
+      "en": "Regional Market Summary",
+      "sw": "Muhtasari wa Soko la Kanda"
+    },
+    "tax_info": {
+      "en": "Estimated Tax Impact",
+      "sw": "Makadirio ya Athari ya Kodi"
+    },
+    "compliance_note": {
+      "en": "All investments follow local regulations.",
+      "sw": "Uwekezaji wote unafuata sheria za hapa."
+    },
+    "tax_guidance": {
+      "tanzania": {
+        "en": "In Tanzania, capital gains tax applies at 10% for equities held less than 1 year",
+        "sw": "Tanzania, kodi ya faida za mtaji ni 10% kwa hisa zilizoshikiliwa chini ya mwaka 1"
+      },
+      "kenya": {
+        "en": "In Kenya, withholding tax on dividends is 5% for residents",
+        "sw": "Kenya, kodi ya kuzuia kwa magawio ni 5% kwa wakazi"
+      }
+    }
+  },
+
+  "ai_daily_coach": {
+    "today_insight": {
+      "en": "Today's Insight",
+      "sw": "Ufafanuzi wa Leo"
+    },
+    "weekly_summary": {
+      "en": "Weekly Market Summary",
+      "sw": "Muhtasari wa Soko la Wiki"
+    },
+    "goal_update": {
+      "on_track": {
+        "en": "Your portfolio progress is on track",
+        "sw": "Maendeleo ya portfolio yako yako kwenye njia sahihi"
+      },
+      "ahead": {
+        "en": "You're ahead of schedule — great work!",
+        "sw": "Uko mbele ya ratiba — kazi nzuri!"
+      },
+      "behind": {
+        "en": "Let's review your plan to get back on track",
+        "sw": "Hebu tuangalie mpango wako ili kurudi kwenye njia"
+      }
+    },
+    "behavioral_nudge": {
+      "review_scheduled": {
+        "en": "Consider reviewing your scheduled trades today.",
+        "sw": "Fikiria kupitia biashara zako zilizopangwa leo."
+      },
+      "dividend_coming": {
+        "en": "You have a dividend payment coming in 3 days",
+        "sw": "Una malipo ya gawio yanayokuja kwa siku 3"
+      },
+      "rebalance": {
+        "en": "Your portfolio may benefit from rebalancing",
+        "sw": "Portfolio yako inaweza kufaidika kutoka kusawazisha"
+      }
+    }
+  },
+
+  "errors_general": {
+    "network_error": {
+      "en": "Network issue. Please try again.",
+      "sw": "Tatizo la mtandao. Tafadhali jaribu tena."
+    },
+    "server_error": {
+      "en": "Server error. We are working to fix it.",
+      "sw": "Tatizo la seva. Tunaendelea kulitatua."
+    },
+    "invalid_input": {
+      "en": "Invalid input. Please check and try again.",
+      "sw": "Kiingilio si sahihi. Tafadhali hakikisha na jaribu tena."
+    },
+    "unauthorized": {
+      "en": "Session expired. Please log in again.",
+      "sw": "Kipindi kimekwisha. Tafadhali ingia tena."
+    },
+    "not_found": {
+      "en": "Resource not found.",
+      "sw": "Rasilimali haipatikani."
+    },
+    "try_again": {
+      "en": "Try Again",
+      "sw": "Jaribu Tena"
+    },
+    "go_back": {
+      "en": "Go Back",
+      "sw": "Rudi Nyuma"
+    }
+  },
+
+  "common": {
+    "loading": {
+      "en": "Loading...",
+      "sw": "Inapakia..."
+    },
+    "retry": {
+      "en": "Retry",
+      "sw": "Jaribu Tena"
+    },
+    "close": {
+      "en": "Close",
+      "sw": "Funga"
+    },
+    "save": {
+      "en": "Save",
+      "sw": "Hifadhi"
+    },
+    "cancel": {
+      "en": "Cancel",
+      "sw": "Ghairi"
+    },
+    "confirm": {
+      "en": "Confirm",
+      "sw": "Thibitisha"
+    },
+    "delete": {
+      "en": "Delete",
+      "sw": "Futa"
+    },
+    "edit": {
+      "en": "Edit",
+      "sw": "Hariri"
+    },
+    "done": {
+      "en": "Done",
+      "sw": "Imekamilika"
+    },
+    "next": {
+      "en": "Next",
+      "sw": "Ifuatayo"
+    },
+    "previous": {
+      "en": "Previous",
+      "sw": "Iliyopita"
+    },
+    "yes": {
+      "en": "Yes",
+      "sw": "Ndiyo"
+    },
+    "no": {
+      "en": "No",
+      "sw": "Hapana"
+    },
+    "search": {
+      "en": "Search",
+      "sw": "Tafuta"
+    },
+    "filter": {
+      "en": "Filter",
+      "sw": "Chuja"
+    },
+    "sort": {
+      "en": "Sort",
+      "sw": "Panga"
+    },
+    "view_all": {
+      "en": "View All",
+      "sw": "Angalia Zote"
+    },
+    "learn_more": {
+      "en": "Learn More",
+      "sw": "Jifunze Zaidi"
+    }
+  }
+}

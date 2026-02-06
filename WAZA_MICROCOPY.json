@@ -1,0 +1,1109 @@
+{
+  "welcome": {
+    "title": {
+      "en": "Build Wealth, Your Way",
+      "sw": "Jenga Utajiri, Njia Yako"
+    },
+    "subtitle": {
+      "en": "AI-powered investing for Tanzania & East Africa",
+      "sw": "Uwekezaji wenye AI kwa Tanzania na Afrika Mashariki"
+    },
+    "getStarted": {
+      "en": "Get Started",
+      "sw": "Anza Sasa"
+    },
+    "haveAccount": {
+      "en": "I have an account",
+      "sw": "Nina akaunti"
+    },
+    "trustBadge1": {
+      "en": "CMSA Regulated",
+      "sw": "Inasimamiwa na CMSA"
+    },
+    "trustBadge2": {
+      "en": "Bank-level security",
+      "sw": "Usalama wa kiwango cha benki"
+    }
+  },
+  
+  "language": {
+    "title": {
+      "en": "Choose Your Language",
+      "sw": "Chagua Lugha Yako"
+    },
+    "subtitle": {
+      "en": "You can change this anytime",
+      "sw": "Unaweza kubadilisha wakati wowote"
+    },
+    "english": {
+      "en": "English",
+      "sw": "Kiingereza"
+    },
+    "swahili": {
+      "en": "Kiswahili",
+      "sw": "Kiswahili"
+    },
+    "englishDesc": {
+      "en": "Clear financial insights",
+      "sw": "Maarifa wazi ya kifedha"
+    },
+    "swahiliDesc": {
+      "en": "Maarifa wazi ya kifedha",
+      "sw": "Maarifa wazi ya kifedha"
+    }
+  },
+  
+  "onboarding": {
+    "goals": {
+      "title": {
+        "en": "What brings you here?",
+        "sw": "Je, ni nini kinachokuja hapa?"
+      },
+      "subtitle": {
+        "en": "Select one or more goals",
+        "sw": "Chagua lengo moja au zaidi"
+      },
+      "everydayGrowth": {
+        "en": "Everyday Growth",
+        "sw": "Ukuaji wa Kila Siku"
+      },
+      "everydayGrowthDesc": {
+        "en": "Build wealth daily",
+        "sw": "Jenga utajiri kila siku"
+      },
+      "retirementVault": {
+        "en": "Retirement Vault",
+        "sw": "Hifadhi ya Ustaafu"
+      },
+      "retirementVaultDesc": {
+        "en": "Secure your future",
+        "sw": "Linda mustakabali wako"
+      },
+      "emergencyFund": {
+        "en": "Emergency Fund",
+        "sw": "Fedha za Dharura"
+      },
+      "emergencyFundDesc": {
+        "en": "Ready when you need it",
+        "sw": "Tayari unapohitaji"
+      },
+      "familyLegacy": {
+        "en": "Family Legacy",
+        "sw": "Urithi wa Familia"
+      },
+      "familyLegacyDesc": {
+        "en": "Build generational wealth",
+        "sw": "Jenga utajiri wa vizazi"
+      },
+      "continue": {
+        "en": "Continue",
+        "sw": "Endelea"
+      }
+    },
+    
+    "risk": {
+      "title": {
+        "en": "How do market changes feel?",
+        "sw": "Je, mabadiliko ya soko yanasikiaje?"
+      },
+      "subtitle": {
+        "en": "There's no wrong answer",
+        "sw": "Hakuna jibu lisilo sahihi"
+      },
+      "steadyGrowth": {
+        "en": "I prefer steady growth",
+        "sw": "Napendelea ukuaji thabiti"
+      },
+      "steadyGrowthDesc": {
+        "en": "Minimal ups and downs, slower growth",
+        "sw": "Mabadiliko madogo, ukuaji wa polepole"
+      },
+      "balanced": {
+        "en": "I can handle some ups and downs",
+        "sw": "Naweza kushughulikia mabadiliko"
+      },
+      "balancedDesc": {
+        "en": "Moderate changes, balanced returns",
+        "sw": "Mabadiliko ya wastani, mapato ya usawa"
+      },
+      "volatile": {
+        "en": "I'm comfortable with volatility",
+        "sw": "Niko tayari kwa mabadiliko makubwa"
+      },
+      "volatileDesc": {
+        "en": "Larger swings, potential for higher growth",
+        "sw": "Mabadiliko makubwa, uwezekano wa ukuaji mkubwa"
+      }
+    },
+    
+    "experience": {
+      "title": {
+        "en": "Your investing experience?",
+        "sw": "Je, una uzoefu gani wa uwekezaji?"
+      },
+      "beginner": {
+        "en": "I'm just starting",
+        "sw": "Ninaanza tu"
+      },
+      "beginnerDesc": {
+        "en": "New to investing, want to learn",
+        "sw": "Mpya katika uwekezaji, nataka kujifunza"
+      },
+      "comfortable": {
+        "en": "I've invested before",
+        "sw": "Nimewahi kuwekeza"
+      },
+      "comfortableDesc": {
+        "en": "Some experience, know the basics",
+        "sw": "Uzoefu kidogo, nafahamu msingi"
+      },
+      "advanced": {
+        "en": "I'm an active investor",
+        "sw": "Ni mwekezaji hai"
+      },
+      "advancedDesc": {
+        "en": "Experienced, manage my portfolio",
+        "sw": "Nina uzoefu, ninasimamia mkoba wangu"
+      }
+    },
+    
+    "trust": {
+      "title": {
+        "en": "Your security matters",
+        "sw": "Usalama wako una umuhimu"
+      },
+      "regulated": {
+        "en": "Regulated by CMSA",
+        "sw": "Inasimamiwa na CMSA"
+      },
+      "regulatedDesc": {
+        "en": "Tanzania Capital Markets & Securities Authority",
+        "sw": "Mamlaka ya Soko la Mtaji na Usalama wa Tanzania"
+      },
+      "encrypted": {
+        "en": "Bank-level encryption",
+        "sw": "Usimbuaji wa kiwango cha benki"
+      },
+      "encryptedDesc": {
+        "en": "Your data is protected",
+        "sw": "Data yako inalindwa"
+      },
+      "custody": {
+        "en": "Funds held in custody",
+        "sw": "Fedha zinashikiliwa kwa usalama"
+      },
+      "custodyDesc": {
+        "en": "Separated from our accounts",
+        "sw": "Zimetengwa na akaunti zetu"
+      },
+      "continue": {
+        "en": "Continue to Dashboard",
+        "sw": "Endelea kwa Dashibodi"
+      }
+    }
+  },
+  
+  "dashboard": {
+    "greeting": {
+      "morning": {
+        "en": "Good morning",
+        "sw": "Habari za asubuhi"
+      },
+      "afternoon": {
+        "en": "Good afternoon",
+        "sw": "Habari za mchana"
+      },
+      "evening": {
+        "en": "Good evening",
+        "sw": "Habari za jioni"
+      }
+    },
+    "yourWealth": {
+      "en": "Your Wealth",
+      "sw": "Utajiri Wako"
+    },
+    "onTrack": {
+      "en": "On track",
+      "sw": "Unafanya vizuri"
+    },
+    "needsAttention": {
+      "en": "Needs attention",
+      "sw": "Inahitaji umakini"
+    },
+    "offTrack": {
+      "en": "Let's adjust",
+      "sw": "Hebu turekebishe"
+    },
+    "todayInsight": {
+      "en": "Today's Insight",
+      "sw": "Maarifa ya Leo"
+    },
+    "learnMore": {
+      "en": "Learn more",
+      "sw": "Jifunze zaidi"
+    },
+    "yourGoals": {
+      "en": "Your Goals",
+      "sw": "Malengo Yako"
+    },
+    "addGoal": {
+      "en": "Add Goal",
+      "sw": "Ongeza Lengo"
+    },
+    "quickActions": {
+      "en": "Quick Actions",
+      "sw": "Vitendo vya Haraka"
+    },
+    "addMoney": {
+      "en": "Add Money",
+      "sw": "Ongeza Pesa"
+    },
+    "invest": {
+      "en": "Invest",
+      "sw": "Wekeza"
+    },
+    "markets": {
+      "en": "Markets",
+      "sw": "Masoko"
+    },
+    "empty": {
+      "title": {
+        "en": "Welcome to Waza",
+        "sw": "Karibu Waza"
+      },
+      "subtitle": {
+        "en": "Start your wealth journey",
+        "sw": "Anza safari yako ya utajiri"
+      },
+      "step1": {
+        "en": "Add money (M-Pesa/Bank)",
+        "sw": "Ongeza pesa (M-Pesa/Benki)"
+      },
+      "step2": {
+        "en": "Choose your goals",
+        "sw": "Chagua malengo yako"
+      },
+      "step3": {
+        "en": "Track your progress",
+        "sw": "Fuatilia maendeleo yako"
+      },
+      "cta": {
+        "en": "Get Started",
+        "sw": "Anza Sasa"
+      }
+    }
+  },
+  
+  "portfolio": {
+    "title": {
+      "en": "Portfolio",
+      "sw": "Mkoba"
+    },
+    "totalValue": {
+      "en": "Total Value",
+      "sw": "Thamani Jumla"
+    },
+    "today": {
+      "en": "Today",
+      "sw": "Leo"
+    },
+    "holdings": {
+      "en": "Holdings",
+      "sw": "Vipande"
+    },
+    "all": {
+      "en": "All",
+      "sw": "Yote"
+    },
+    "groupByCountry": {
+      "en": "Group by country",
+      "sw": "Panga kwa nchi"
+    },
+    "groupBySector": {
+      "en": "Group by sector",
+      "sw": "Panga kwa sekta"
+    },
+    "search": {
+      "en": "Search stocks...",
+      "sw": "Tafuta hisa..."
+    },
+    "recent": {
+      "en": "Recent",
+      "sw": "Hivi Karibuni"
+    },
+    "popular": {
+      "en": "Popular in Tanzania",
+      "sw": "Maarufu Tanzania"
+    },
+    "noResults": {
+      "en": "No matches found",
+      "sw": "Hakuna matokeo"
+    },
+    "trySearching": {
+      "en": "Try searching for a stock name or symbol",
+      "sw": "Jaribu kutafuta jina au alama ya hisa"
+    }
+  },
+  
+  "stock": {
+    "currentPrice": {
+      "en": "Current Price",
+      "sw": "Bei ya Sasa"
+    },
+    "buyNow": {
+      "en": "Buy Now",
+      "sw": "Nunua Sasa"
+    },
+    "scheduleTrade": {
+      "en": "Schedule Trade",
+      "sw": "Panga Biashara"
+    },
+    "aiAnalysis": {
+      "en": "AI Analysis",
+      "sw": "Uchambuzi wa AI"
+    },
+    "about": {
+      "en": "About",
+      "sw": "Kuhusu"
+    },
+    "sector": {
+      "en": "Sector",
+      "sw": "Sekta"
+    },
+    "marketCap": {
+      "en": "Market Cap",
+      "sw": "Thamani ya Soko"
+    },
+    "peRatio": {
+      "en": "P/E Ratio",
+      "sw": "Uwiano wa P/E"
+    },
+    "dividendYield": {
+      "en": "Dividend Yield",
+      "sw": "Mapato ya Gawio"
+    },
+    "yourHoldings": {
+      "en": "Your Holdings",
+      "sw": "Vipande Vyako"
+    },
+    "shares": {
+      "en": "shares",
+      "sw": "hisa"
+    },
+    "avgCost": {
+      "en": "Avg. Cost",
+      "sw": "Bei ya Wastani"
+    },
+    "gain": {
+      "en": "Gain",
+      "sw": "Faida"
+    },
+    "loss": {
+      "en": "Loss",
+      "sw": "Hasara"
+    }
+  },
+  
+  "scheduleTrade": {
+    "title": {
+      "en": "Schedule Trade",
+      "sw": "Panga Biashara"
+    },
+    "whatToInvest": {
+      "en": "What do you want to invest in?",
+      "sw": "Unataka kuwekeza nini?"
+    },
+    "howMuch": {
+      "en": "How much?",
+      "sw": "Kiasi gani?"
+    },
+    "whenHappen": {
+      "en": "When should this happen?",
+      "sw": "Hii inatokea lini?"
+    },
+    "once": {
+      "en": "Once (specific date)",
+      "sw": "Mara moja (tarehe maalum)"
+    },
+    "recurring": {
+      "en": "Recurring",
+      "sw": "Mara kwa mara"
+    },
+    "priceTarget": {
+      "en": "When price reaches target",
+      "sw": "Bei inapofika lengo"
+    },
+    "frequency": {
+      "en": "Frequency",
+      "sw": "Mzunguko"
+    },
+    "weekly": {
+      "en": "Weekly",
+      "sw": "Kila wiki"
+    },
+    "biweekly": {
+      "en": "Bi-weekly",
+      "sw": "Wiki mbili mbili"
+    },
+    "monthly": {
+      "en": "Monthly",
+      "sw": "Kila mwezi"
+    },
+    "quarterly": {
+      "en": "Quarterly",
+      "sw": "Kila robo"
+    },
+    "starting": {
+      "en": "Starting",
+      "sw": "Kuanzia"
+    },
+    "addCondition": {
+      "en": "Add a condition?",
+      "sw": "Ongeza hali?"
+    },
+    "noCondition": {
+      "en": "No condition",
+      "sw": "Hakuna hali"
+    },
+    "priceBelow": {
+      "en": "Price is at or below target",
+      "sw": "Bei iko au chini ya lengo"
+    },
+    "priceAbove": {
+      "en": "Price is at or above target",
+      "sw": "Bei iko au juu ya lengo"
+    },
+    "targetPrice": {
+      "en": "Target Price",
+      "sw": "Bei ya Lengo"
+    },
+    "current": {
+      "en": "Current",
+      "sw": "Ya Sasa"
+    },
+    "below": {
+      "en": "below",
+      "sw": "chini"
+    },
+    "above": {
+      "en": "above",
+      "sw": "juu"
+    },
+    "conditionNote": {
+      "en": "Order executes only if price reaches target",
+      "sw": "Agizo linatekelezwa tu bei inapofika lengo"
+    },
+    "review": {
+      "en": "Review Trade",
+      "sw": "Kagua Biashara"
+    },
+    "schedule": {
+      "en": "Schedule",
+      "sw": "Mpangilio"
+    },
+    "condition": {
+      "en": "Condition",
+      "sw": "Hali"
+    },
+    "onlyIf": {
+      "en": "Only if",
+      "sw": "Tu kama"
+    },
+    "disclaimer": {
+      "en": "This is a scheduled order. Funds will be deducted when the trade executes.",
+      "sw": "Hii ni agizo lililopangwa. Fedha zitachukuliwa agizo linapotekelezwa."
+    },
+    "edit": {
+      "en": "Edit",
+      "sw": "Hariri"
+    },
+    "confirm": {
+      "en": "Confirm Trade",
+      "sw": "Thibitisha Biashara"
+    },
+    "cancel": {
+      "en": "Cancel",
+      "sw": "Ghairi"
+    },
+    "success": {
+      "title": {
+        "en": "Trade Scheduled",
+        "sw": "Biashara Imepangwa"
+      },
+      "message": {
+        "en": "Your recurring investment starts {date}",
+        "sw": "Uwekezaji wako wa mara kwa mara unaanza {date}"
+      },
+      "viewSchedule": {
+        "en": "View Schedule",
+        "sw": "Angalia Mpangilio"
+      },
+      "done": {
+        "en": "Done",
+        "sw": "Imekamilika"
+      }
+    }
+  },
+  
+  "scenario": {
+    "title": {
+      "en": "Scenario Builder",
+      "sw": "Mjenzi wa Mipango"
+    },
+    "currentGoal": {
+      "en": "Current",
+      "sw": "Ya Sasa"
+    },
+    "target": {
+      "en": "Target",
+      "sw": "Lengo"
+    },
+    "monthlyContribution": {
+      "en": "Monthly Contribution",
+      "sw": "Mchango wa Kila Mwezi"
+    },
+    "timeHorizon": {
+      "en": "Time Horizon",
+      "sw": "Muda"
+    },
+    "projectedValue": {
+      "en": "Projected Value",
+      "sw": "Thamani Inayotarajiwa"
+    },
+    "by": {
+      "en": "by",
+      "sw": "ifikapo"
+    },
+    "aiInsight": {
+      "positive": {
+        "en": "This scenario works",
+        "sw": "Mpango huu unafanya kazi"
+      },
+      "stretch": {
+        "en": "Ambitious target",
+        "sw": "Lengo zito"
+      },
+      "unrealistic": {
+        "en": "Let's adjust",
+        "sw": "Hebu turekebishe"
+      }
+    },
+    "confidence": {
+      "en": "Confidence",
+      "sw": "Imani"
+    },
+    "high": {
+      "en": "High",
+      "sw": "Juu"
+    },
+    "medium": {
+      "en": "Medium",
+      "sw": "Wastani"
+    },
+    "low": {
+      "en": "Low",
+      "sw": "Chini"
+    },
+    "applyChanges": {
+      "en": "Apply Changes",
+      "sw": "Tekeleza Mabadiliko"
+    },
+    "reset": {
+      "en": "Reset",
+      "sw": "Weka Upya"
+    },
+    "adjustTimeline": {
+      "en": "Adjust Timeline",
+      "sw": "Rekebisha Muda"
+    },
+    "reduceGoal": {
+      "en": "Reduce Goal",
+      "sw": "Punguza Lengo"
+    },
+    "extendTime": {
+      "en": "Extend Time",
+      "sw": "Ongeza Muda"
+    },
+    "applyConfirm": {
+      "title": {
+        "en": "Apply changes to your goal?",
+        "sw": "Tekeleza mabadiliko kwa lengo lako?"
+      },
+      "newPlan": {
+        "en": "Your new plan",
+        "sw": "Mpango wako mpya"
+      },
+      "monthly": {
+        "en": "Monthly",
+        "sw": "Kila mwezi"
+      },
+      "timeline": {
+        "en": "Timeline",
+        "sw": "Muda"
+      },
+      "reminder": {
+        "en": "We'll remind you to stay on track",
+        "sw": "Tutakukumbusha kukaa kwenye njia"
+      },
+      "apply": {
+        "en": "Apply",
+        "sw": "Tekeleza"
+      }
+    },
+    "success": {
+      "title": {
+        "en": "Goal Updated",
+        "sw": "Lengo Limesasishwa"
+      },
+      "message": {
+        "en": "Your new plan is active. We'll send a reminder on the 1st of each month.",
+        "sw": "Mpango wako mpya umeanza. Tutakutumia ukumbusho tarehe 1 kila mwezi."
+      },
+      "viewGoal": {
+        "en": "View Goal",
+        "sw": "Angalia Lengo"
+      }
+    }
+  },
+  
+  "dividend": {
+    "title": {
+      "en": "Dividend Calendar",
+      "sw": "Ratiba ya Gawio"
+    },
+    "expectedQuarter": {
+      "en": "Expected This Quarter",
+      "sw": "Inatarajiwa Robo Hii"
+    },
+    "q1": {
+      "en": "Q1 2026",
+      "sw": "Robo 1 2026"
+    },
+    "q2": {
+      "en": "Q2 2026",
+      "sw": "Robo 2 2026"
+    },
+    "q3": {
+      "en": "Q3 2026",
+      "sw": "Robo 3 2026"
+    },
+    "q4": {
+      "en": "Q4 2026",
+      "sw": "Robo 4 2026"
+    },
+    "upcoming": {
+      "en": "Upcoming",
+      "sw": "Zinazokuja"
+    },
+    "remindMe": {
+      "en": "Remind me",
+      "sw": "Nikumbushe"
+    },
+    "yield": {
+      "en": "yield",
+      "sw": "mapato"
+    },
+    "annualForecast": {
+      "en": "Annual Forecast",
+      "sw": "Makadirio ya Mwaka"
+    },
+    "viewDetails": {
+      "en": "View Details",
+      "sw": "Angalia Maelezo"
+    },
+    "paymentDate": {
+      "en": "Payment Date",
+      "sw": "Tarehe ya Malipo"
+    },
+    "amount": {
+      "en": "Amount",
+      "sw": "Kiasi"
+    },
+    "status": {
+      "en": "Status",
+      "sw": "Hali"
+    },
+    "confirmed": {
+      "en": "Confirmed by company",
+      "sw": "Imethibitishwa na kampuni"
+    },
+    "pending": {
+      "en": "Pending",
+      "sw": "Inasubiri"
+    },
+    "paid": {
+      "en": "Paid",
+      "sw": "Imelipwa"
+    },
+    "note": {
+      "en": "Dividends are paid directly to your Waza account 2-3 days after the payment date.",
+      "sw": "Gawio linalipwa moja kwa moja kwa akaunti yako ya Waza siku 2-3 baada ya tarehe ya malipo."
+    },
+    "remindOneDayBefore": {
+      "en": "Remind me 1 day before",
+      "sw": "Nikumbushe siku 1 kabla"
+    },
+    "gotIt": {
+      "en": "Got it",
+      "sw": "Nimeelewa"
+    },
+    "expectedIncome": {
+      "en": "Expected Dividend Income",
+      "sw": "Mapato Yanayotarajiwa ya Gawio"
+    },
+    "forYear": {
+      "en": "for 2026",
+      "sw": "kwa 2026"
+    },
+    "byQuarter": {
+      "en": "By Quarter",
+      "sw": "Kwa Robo"
+    },
+    "topDividendStocks": {
+      "en": "Top Dividend Stocks",
+      "sw": "Hisa Bora za Gawio"
+    },
+    "autoReinvest": {
+      "en": "Auto-Reinvest Dividends",
+      "sw": "Wekeza Tena Gawio Kiotomatiki"
+    },
+    "reminders": {
+      "title": {
+        "en": "Dividend Reminders",
+        "sw": "Vikumbusho vya Gawio"
+      },
+      "upcomingPayments": {
+        "en": "Upcoming payments",
+        "sw": "Malipo yanayokuja"
+      },
+      "upcomingPaymentsDesc": {
+        "en": "Notify 1 day before",
+        "sw": "Nijulishe siku 1 kabla"
+      },
+      "weeklySummary": {
+        "en": "Weekly summary",
+        "sw": "Muhtasari wa wiki"
+      },
+      "weeklySummaryDesc": {
+        "en": "Every Monday morning",
+        "sw": "Kila Jumatatu asubuhi"
+      },
+      "annualForecast": {
+        "en": "Annual forecast",
+        "sw": "Makadirio ya mwaka"
+      },
+      "annualForecastDesc": {
+        "en": "At start of each year",
+        "sw": "Mwanzo wa kila mwaka"
+      }
+    },
+    "empty": {
+      "title": {
+        "en": "No dividends yet",
+        "sw": "Hakuna gawio bado"
+      },
+      "message": {
+        "en": "Invest in dividend-paying stocks to start earning passive income.",
+        "sw": "Wekeza katika hisa zinazolipa gawio ili uanze kupata mapato yasiyo ya moja kwa moja."
+      },
+      "cta": {
+        "en": "Explore Dividend Stocks",
+        "sw": "Chunguza Hisa za Gawio"
+      }
+    }
+  },
+  
+  "alerts": {
+    "dailyInsight": {
+      "title": {
+        "en": "Good morning",
+        "sw": "Habari za asubuhi"
+      },
+      "wealthGrew": {
+        "en": "Your wealth grew {amount} overnight. Keep this momentum!",
+        "sw": "Utajiri wako uliongezeka {amount} usiku. Endelea hivyo!"
+      },
+      "viewPortfolio": {
+        "en": "View Portfolio",
+        "sw": "Angalia Mkoba"
+      }
+    },
+    "goalProgress": {
+      "title": {
+        "en": "Milestone reached!",
+        "sw": "Hatua muhimu!"
+      },
+      "message": {
+        "en": "You're now {percent}% to your {goal} goal. {remaining} to go!",
+        "sw": "Sasa uko {percent}% kwa lengo lako la {goal}. Baki {remaining}!"
+      },
+      "viewGoal": {
+        "en": "View Goal",
+        "sw": "Angalia Lengo"
+      }
+    },
+    "weeklySummary": {
+      "title": {
+        "en": "Your week in review",
+        "sw": "Wiki yako kwa muhtasari"
+      },
+      "portfolio": {
+        "en": "Portfolio",
+        "sw": "Mkoba"
+      },
+      "contributions": {
+        "en": "Contributions",
+        "sw": "Michango"
+      },
+      "dividends": {
+        "en": "Dividends",
+        "sw": "Gawio"
+      },
+      "greatWeek": {
+        "en": "Great consistency this week!",
+        "sw": "Uthabiti mzuri wiki hii!"
+      },
+      "viewDetails": {
+        "en": "View Details",
+        "sw": "Angalia Maelezo"
+      }
+    },
+    "tradeExecuted": {
+      "title": {
+        "en": "Trade executed",
+        "sw": "Biashara imetekelezwa"
+      },
+      "message": {
+        "en": "Bought {amount} of {stock} at {price} (condition met)",
+        "sw": "Umenunua {amount} ya {stock} kwa {price} (hali imetimizwa)"
+      }
+    },
+    "dividendReceived": {
+      "title": {
+        "en": "Dividend received",
+        "sw": "Gawio limepokelewa"
+      },
+      "message": {
+        "en": "{amount} from {stock} added to your account.",
+        "sw": "{amount} kutoka {stock} imeongezwa kwa akaunti yako."
+      },
+      "viewCalendar": {
+        "en": "View Dividend Calendar",
+        "sw": "Angalia Ratiba ya Gawio"
+      }
+    },
+    "marketMovement": {
+      "title": {
+        "en": "Market update",
+        "sw": "Sasisho la soko"
+      },
+      "message": {
+        "en": "{market} {direction} {percent}% today, but your long-term goals are still on track.",
+        "sw": "{market} {direction} {percent}% leo, lakini malengo yako ya muda mrefu bado yanafanya vizuri."
+      },
+      "dropped": {
+        "en": "dropped",
+        "sw": "imeshuka"
+      },
+      "rose": {
+        "en": "rose",
+        "sw": "imepanda"
+      },
+      "reassurance": {
+        "en": "Short-term drops are normal. Stay consistent.",
+        "sw": "Kushuka kwa muda mfupi ni kawaida. Endelea kuwa thabiti."
+      },
+      "learnMore": {
+        "en": "Learn More",
+        "sw": "Jifunze Zaidi"
+      }
+    },
+    "settings": {
+      "title": {
+        "en": "AI Coach Settings",
+        "sw": "Mipangilio ya Kocha wa AI"
+      },
+      "insights": {
+        "en": "Insights",
+        "sw": "Maarifa"
+      },
+      "dailyInsights": {
+        "en": "Daily insights",
+        "sw": "Maarifa ya kila siku"
+      },
+      "dailyInsightsDesc": {
+        "en": "Morning wealth updates",
+        "sw": "Sasisho la utajiri asubuhi"
+      },
+      "goalProgress": {
+        "en": "Goal progress",
+        "sw": "Maendeleo ya lengo"
+      },
+      "goalProgressDesc": {
+        "en": "Milestone notifications",
+        "sw": "Arifa za hatua muhimu"
+      },
+      "weeklySummary": {
+        "en": "Weekly summary",
+        "sw": "Muhtasari wa wiki"
+      },
+      "weeklySummaryDesc": {
+        "en": "Every Sunday evening",
+        "sw": "Kila Jumapili jioni"
+      },
+      "marketUpdates": {
+        "en": "Market updates",
+        "sw": "Sasisho za soko"
+      },
+      "marketUpdatesDesc": {
+        "en": "When market moves >2%",
+        "sw": "Soko linapobadilika >2%"
+      },
+      "tone": {
+        "en": "Tone",
+        "sw": "Sauti"
+      },
+      "encouraging": {
+        "en": "Encouraging",
+        "sw": "Ya kutia moyo"
+      },
+      "encouragingDesc": {
+        "en": "Positive, motivating",
+        "sw": "Chanya, ya kuhamasisha"
+      },
+      "neutral": {
+        "en": "Neutral",
+        "sw": "Ya wastani"
+      },
+      "neutralDesc": {
+        "en": "Factual, no emotion",
+        "sw": "Ya ukweli, bila hisia"
+      },
+      "minimal": {
+        "en": "Minimal",
+        "sw": "Ndogo"
+      },
+      "minimalDesc": {
+        "en": "Critical updates only",
+        "sw": "Sasisho muhimu tu"
+      }
+    }
+  },
+  
+  "common": {
+    "loading": {
+      "en": "Loading...",
+      "sw": "Inapakia..."
+    },
+    "error": {
+      "en": "Something went wrong",
+      "sw": "Kuna tatizo"
+    },
+    "retry": {
+      "en": "Try Again",
+      "sw": "Jaribu Tena"
+    },
+    "save": {
+      "en": "Save",
+      "sw": "Hifadhi"
+    },
+    "cancel": {
+      "en": "Cancel",
+      "sw": "Ghairi"
+    },
+    "continue": {
+      "en": "Continue",
+      "sw": "Endelea"
+    },
+    "back": {
+      "en": "Back",
+      "sw": "Rudi"
+    },
+    "done": {
+      "en": "Done",
+      "sw": "Imekamilika"
+    },
+    "edit": {
+      "en": "Edit",
+      "sw": "Hariri"
+    },
+    "delete": {
+      "en": "Delete",
+      "sw": "Futa"
+    },
+    "confirm": {
+      "en": "Confirm",
+      "sw": "Thibitisha"
+    },
+    "dismiss": {
+      "en": "Dismiss",
+      "sw": "Ondoa"
+    },
+    "viewAll": {
+      "en": "View All",
+      "sw": "Angalia Zote"
+    },
+    "learnMore": {
+      "en": "Learn More",
+      "sw": "Jifunze Zaidi"
+    },
+    "getStarted": {
+      "en": "Get Started",
+      "sw": "Anza Sasa"
+    },
+    "comingSoon": {
+      "en": "Coming Soon",
+      "sw": "Inakuja Hivi Karibuni"
+    },
+    "contactSupport": {
+      "en": "Contact Support",
+      "sw": "Wasiliana na Msaada"
+    }
+  },
+  
+  "errors": {
+    "networkError": {
+      "en": "Check your internet connection and try again",
+      "sw": "Angalia muunganisho wako wa mtandao na jaribu tena"
+    },
+    "serverError": {
+      "en": "We're experiencing technical difficulties. Please try again later.",
+      "sw": "Tunakumbana na matatizo ya kiufundi. Tafadhali jaribu baadaye."
+    },
+    "insufficientFunds": {
+      "en": "Insufficient funds. Please add money to your account.",
+      "sw": "Fedha hazitoshi. Tafadhali ongeza pesa kwa akaunti yako."
+    },
+    "invalidAmount": {
+      "en": "Please enter a valid amount",
+      "sw": "Tafadhali weka kiasi halali"
+    },
+    "marketClosed": {
+      "en": "Market is currently closed. Your order will execute when market opens.",
+      "sw": "Soko limefungwa sasa. Agizo lako litatekelezwa soko litakapofunguka."
+    }
+  },
+  
+  "success": {
+    "fundsSadded": {
+      "en": "Funds added successfully",
+      "sw": "Fedha zimeongezwa kwa mafanikio"
+    },
+    "tradeExecuted": {
+      "en": "Trade executed successfully",
+      "sw": "Biashara imetekelezwa kwa mafanikio"
+    },
+    "goalCreated": {
+      "en": "Goal created successfully",
+      "sw": "Lengo limeundwa kwa mafanikio"
+    },
+    "goalUpdated": {
+      "en": "Goal updated successfully",
+      "sw": "Lengo limesasishwa kwa mafanikio"
+    },
+    "settingsSaved": {
+      "en": "Settings saved",
+      "sw": "Mipangilio imehifadhiwa"
+    }
+  }
+}
