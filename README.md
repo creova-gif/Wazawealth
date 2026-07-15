@@ -10,7 +10,7 @@
 
 Waza ("waza" — Swahili for idea/think) is a fintech app aimed at making investing approachable for first-time investors, combining an AI tutor/wealth copilot, cross-market portfolio views, a trading screen, and gamified habit-building elements (daily rituals, badges, activity rings). Supabase integration is present.
 
-[ADD SCREENSHOT HERE]
+![Waza Wealth landing page](docs/screenshots/dashboard.png)
 
 ## Status: In active development
 
